@@ -20,26 +20,26 @@ body {
         nav {
             display: inline-block;
             float: right;
-            margin-top: 20px;
+            margin-top: 16px;
             font-size: 20px;
         }
             a {
                 text-decoration: none;
                 display: inline-block;
                 float: left;
-                margin-left: 20px;
-                font-size: 15px;
-                line-height: 30px;
+                margin-left: 25px;
+                font-size: 20px;
+                line-height: 20px;
+                color: #bcbcbc;
             }
                 .btn {
+                    margin-top: -4px;
                     box-sizing: content-box;  
-                    width: 100px;
-                    height: 30px;
-                    padding: 2px;  
-                    border: 1px solid black;
+                    padding: 2px; 
+                    padding-left: 15px;
+                    padding-right: 15px; 
+                    border: 1px solid#bcbcbc;
                     border-radius: 20px;
-                    display: inline-block;
-                    text-align:center;              
                 }
     section {
         display: inline-block;
@@ -53,12 +53,19 @@ body {
             margin-top: 40px;
             margin-left: 4%;
             margin-right: 4%;
+            color: #bcbcbc;
         }
             h1 {
-
+                display: inline block;
+                width: 100%;
+                font-size: 80px;
+                line-height: 80px;
             }
             p {
-
+                display: inline block;
+                width: 100%;
+                font-size: 30px;
+                line-height: 30px;
             }
         .mergaite {
             display: inline-block;
